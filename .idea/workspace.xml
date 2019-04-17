@@ -1,7 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e2bd3f1-e720-4935-8106-49ee1291f1e8" name="默认更改列表" comment="" />
+    <list default="true" id="1e2bd3f1-e720-4935-8106-49ee1291f1e8" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/learning.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/Numpy/.ipynb_checkpoints/1-Numpy概述-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/Numpy/.ipynb_checkpoints/2-array结构-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/Numpy/.ipynb_checkpoints/3-数值计算-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/Numpy/.ipynb_checkpoints/4-排序-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/Numpy/.ipynb_checkpoints/5-数组形状-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/Numpy/.ipynb_checkpoints/6-数组生成-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/Numpy/.ipynb_checkpoints/7-运算-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/Numpy/.ipynb_checkpoints/8-随机模块-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/Numpy/.ipynb_checkpoints/9-读写-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/Numpy/numpy代码/.ipynb_checkpoints/1-Numpy概述-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/Numpy/numpy代码/.ipynb_checkpoints/2-array结构-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/Numpy/numpy代码/.ipynb_checkpoints/3-数值计算-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/Numpy/numpy代码/.ipynb_checkpoints/4-排序-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/Numpy/numpy代码/.ipynb_checkpoints/5-数组形状-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/Numpy/numpy代码/.ipynb_checkpoints/6-数组生成-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/Numpy/numpy代码/.ipynb_checkpoints/7-运算-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/Numpy/numpy代码/.ipynb_checkpoints/8-随机模块-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/Numpy/numpy代码/.ipynb_checkpoints/9-读写-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/Numpy/numpy代码/1-Numpy概述.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/Numpy/numpy代码/2-array结构.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/Numpy/numpy代码/3-数值计算.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/Numpy/numpy代码/4-排序.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/Numpy/numpy代码/5-数组形状.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/Numpy/numpy代码/6-数组生成.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/Numpy/numpy代码/7-运算.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/Numpy/numpy代码/8-随机模块.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/Numpy/numpy代码/9-读写.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/Numpy/numpy代码/tang.npz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/Numpy/numpy代码/tang.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/Numpy/numpy代码/tang2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/Numpy/numpy代码/tang4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/Numpy/numpy代码/tang_array.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/001/Numpy/numpy代码/练习题.ipynb" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,12 +46,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/00.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -32,6 +69,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -41,24 +83,13 @@
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/learning.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="492" />
-    <option name="y" value="44" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="Scope" currentSubView="Scope '项目文件'; set:项目文件; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -87,8 +118,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="MANAGE_IGNORE_FILES_PROPERTY" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -128,6 +161,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.00" />
@@ -145,25 +200,20 @@
       <option name="presentableId" value="Default" />
       <updated>1555471899047</updated>
       <workItem from="1555471900192" duration="1138000" />
+      <workItem from="1555483330414" duration="2027000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1138000" />
+    <option name="totallyTimeSpent" value="3165000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="492" y="44" width="1400" height="1000" extended-state="0" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.37199125" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="调试" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="SVN Repositories" visible="true" weight="0.32968238" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3290993" />
@@ -171,11 +221,19 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3290993" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="调试" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.31215772" />
+      <window_info anchor="right" x="0" y="0" width="300" height="800" id="Documentation" side_tool="true" weight="0.32985073" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,8 +259,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/00.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
